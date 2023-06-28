@@ -1,7 +1,7 @@
-import Header from "./MyComponents/Header";
-import Footer from "./MyComponents/Footer";
-import About from "./MyComponents/About";
-import Home from "./MyComponents/Home";
+import Header from "./Header";
+import Footer from "./Footer";
+import About from "./About";
+import Home from "./Home";
 
 function App() {
 
